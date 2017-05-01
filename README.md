@@ -1,4 +1,4 @@
-# tactile_prediction
+# Grasp Assertiveness
 
 ```
 usage: grasp_assertiveness.py [-h] -d DIRECTORY [-l {DEBUG,INFO,ERROR}]
